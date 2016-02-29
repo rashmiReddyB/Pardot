@@ -26,4 +26,4 @@ Browser for execution:
 Written code for executing scripts in Firefox, can use any other browser by its driver implementation
 
 Results:
-Written input and success lines for every step, console output gives the results
+Written input and success lines for every step, so console output shows all the results
