@@ -20,15 +20,15 @@ public class testExercise {
 	private static String menuOption1 = "Marketing"; //Main menu option
 	private static String menuXpath1  = ".//*[@id='dropmenu-marketing']/li"; //xpath for locating Main menu sub menu options list
 	private static String subMenu1    = "Segmentation"; //Sub menu option under main menu
-	private static String listName1    = "List checkyuttuiuuiyliyriu"; //List name
-	private static String renameListName    = "Renamed List test3ioiiiluoiiortt"; //List name to be renamed to
+	private static String listName1    = "List test name"; //List name
+	private static String renameListName    = "Renamed List test name"; //List name to be renamed to
 	private static String menuOption2 = "Prospects"; //Main menu option
 	private static String menuXpath2  = ".//*[@id='dropmenu-prospects']/li"; //xpath for locating Main menu sub menu options list
 	private static String subMenu2    = "Prospect List"; //Sub menu option under main menu
-	private static String emailForProspect    = "aauyitytuyyyuulurp@bb.com"; //Email to be entered in Prospects page
+	private static String emailForProspect    = "testemail@bb.com"; //Email to be entered in Prospects page
 	private static String campaignForProspect    = "Adil Yellow Jackets"; //Campaign to be selected in Prospects page
 	private static String profileIDForProspect    = "Adil Yellow Jackets 1"; //Profile ID to be selected in Prospects page
-	private static String nameInEmail = "Name in emoaiiuliilitrouiyy"; //Name to be entered in Email information
+	private static String nameInEmail = "Name in email test"; //Name to be entered in Email information
 	private static String campaignForEmail    = "Adil Yellow Jackets"; //campaign to be selected in Email information
 	private static String subMenu3    = "Emails"; //sub menu option
 
